@@ -1,0 +1,162 @@
+body{
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Mulish;
+}
+header{
+    width: 1180px;
+    display: flex;
+    justify-content: space-between;
+}
+header div{
+    display: flex;
+    gap: 40px;
+}
+header div p{
+    color: #233348;
+}
+.box{
+    gap: 21px;
+}
+.box p{
+    color: #233348;
+    margin: 8px;
+    font-size: 24px;
+}
+.kok{
+    background-color: #458FF6;
+    width: 41px;
+    height: 41px;
+    text-align: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+}
+.kok p{
+    font-family: Mulish;
+    font-size: 26px;
+    margin-left: 12px;
+    color: white;
+}
+main{
+    display: flex;
+    gap: 141px;
+    margin-top: 91px;
+}
+main div{
+    width: 440px;
+}
+main div h1{
+    font-size: 45px;
+}
+.qator{
+    font-size: 19px;
+    color: #7D7987;
+    line-height: 32px;
+}
+button{
+    background-color: #458FF6;
+    border: none;
+    border-radius: 55px;
+    width: 197px;
+    height: 50px;
+    color: white;
+    font-size: 17px;
+}
+.mouse{
+    position: relative;
+    right: 46px;
+    top: 45px;
+}
+.container{
+    width: 1180;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.yozuv{
+    width: 952px;
+    text-align: center;
+}
+.yozuv h1{
+    font-size: 35px;
+}
+.yozuv p{
+    font-size: 18px;
+    color: #7D7987;
+}
+.services{
+    width: 1180px;
+}
+.har3ta{
+    display: flex;
+    width: 1180px;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.doctor{
+    width: 380px;
+    height: 380px;
+    background-color: #5A98F2;
+    border-radius: 20px;
+}
+.doctor h2{
+    font-size: 24px;
+    color: white;
+    margin-left: 39px;
+    margin-top: 40px;
+}
+.doctor p{
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 39px;
+    width: 280px;
+}
+.doctor img{
+    margin-top: 68px;
+    margin-left: 39px;
+}
+.mouse1{
+    margin: 0px;
+    position: relative;
+    left: 70px;
+    top: 100px;
+}
+.pharmacy{
+    width: 380px;
+    background-color: #E7E7E7;
+    border-radius: 20px;
+    width: 380px;
+    height: 380px;
+}
+.pharmacy div{
+    width: 284px;
+    margin-top: 90px;
+    margin-left: 40px;
+}
+.pharmacy h2{
+    font-size: 24px;
+    margin-top: 41px;
+}
+.pharmacy p{
+    font-size: 16px;
+    color: #7D7987;
+    width: 283px;
+}
+.h2{
+    margin-top: none;
+}
+.end{
+    border: 2px solid #458FF6;
+    width: 200px;
+    height: 57px;
+    text-align: center;
+    align-items: center;
+    border-radius: 55px;
+    color: #458FF6;
+    font-size: 18px;
+    background-color: white;
+    margin-top: 33px;
+}
